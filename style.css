@@ -169,21 +169,21 @@ html,body{
 #onespan{
 width: 65px;
 height: 35px;
-background-image: url(images/bluegirl.jpg);
+background-image: url(images/bluegirl.webp);
 background-size: cover;
 background-position: 0% 60%;
 }
 #twospan{
     width: 80px;
     height: 40px;
-    background-image: url(images/shaljam.jpg);
+    background-image: url(images/shaljam.webp);
 background-size: cover;
 background-position: 0% 48%;
 }
 #threespan{
     width: 65px;
     height: 35px;
-    background-image: url(images/grass.jpg);
+    background-image: url(images/grass.webp);
 background-size: cover;
 background-position: 0% 60%;
 }
